@@ -2,7 +2,7 @@
 // Creamos la conexion a la base de datos
 try
 {
-    $bdd = new PDO('mysql:host=localhost;dbname=registros', 'root', '');
+     $bdd = new PDO('myataDeDNamesql:host=HostSuyo;dbname=NameSuDataBase', 'root', '');
 }
 catch(Exception $ex)
 {

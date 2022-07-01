@@ -38,15 +38,7 @@ CREATE TABLE `registro_dato` (
 
 --
 -- Volcado de datos para la tabla `registro_dato`
---
 
-INSERT INTO `registro_dato` (`id`, `usuario_n`, `edad_n`, `email`, `contrasena`) VALUES
-(1, 'sebastion', 22, 'seba@gmail.com', '123'),
-(2, 'alejo', 65, 'arr@hotmail.com', 'alejo'),
-(3, 'sebas', 24, 'cliente88@gmail.com', 'rafa');
-
---
--- Índices para tablas volcadas
 --
 
 --
